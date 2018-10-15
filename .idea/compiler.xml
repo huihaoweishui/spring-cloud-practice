@@ -7,16 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloud" />
+        <module name="cloud-feign" />
         <module name="eureka-client-1" />
+        <module name="eureka-client-first" />
         <module name="eureka-server" />
-        <module name="feign" />
         <module name="ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="eureka-client" target="1.8" />
       <module name="eureka-client-2" target="1.8" />
       <module name="eureka-client-3" target="1.8" />
       <module name="eureka-client2" target="1.8" />
+      <module name="feign" target="1.8" />
+      <module name="spring-cloud-practice" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
