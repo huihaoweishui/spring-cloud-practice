@@ -8,10 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud" />
         <module name="cloud-feign" />
+        <module name="config-client" />
+        <module name="config-server" />
         <module name="eureka-client-1" />
         <module name="eureka-client-first" />
         <module name="eureka-server" />
         <module name="ribbon" />
+        <module name="zuul-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

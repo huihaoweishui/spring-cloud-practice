@@ -12,15 +12,18 @@
         <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-client2/pom.xml" />
-        <option value="$PROJECT_DIR$/../cloud/eureka-client3/pom.xml" />
-        <option value="$PROJECT_DIR$/../cloud/eureka-client-1/pom.xml" />
-        <option value="$PROJECT_DIR$/../cloud/feign/pom.xml" />
+        <option value="D:/cloud/eureka-client3/pom.xml" />
+        <option value="D:/cloud/eureka-client-1/pom.xml" />
+        <option value="D:/cloud/feign/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-client-first/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/../cloud/out" />
+    <output url="file://D:/cloud/out" />
   </component>
 </project>
