@@ -1,5 +1,6 @@
 server:
-    port: 8766
+    port: 8888
+    #config-client 默认找8888这个端口 需要查询如何覆盖
 
 spring:
   application:
