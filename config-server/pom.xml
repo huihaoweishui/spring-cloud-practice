@@ -30,6 +30,7 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-config-server</artifactId>
         </dependency>
+        <!--这个和config-server好像不能共存，如果放开则会注册到eureka 并且访问当前项目地址会返回Environment xml格式的东西，而不是json-->
         <!--<dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
